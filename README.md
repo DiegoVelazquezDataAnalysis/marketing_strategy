@@ -1,4 +1,5 @@
 # Análisis sobre las ventas históricas de videojuegos
+![Static Badge](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white)
 
 ## Descripcion del Proyecto 
 Proyecto desarrollado para una tienda hipotética online que vende videojuegos por todo el mundo. Trabajamos con las reseñas de los usuarios y expertos, los géneros, las plataformas y los datos históricos sobre las ventas de juegos. 
